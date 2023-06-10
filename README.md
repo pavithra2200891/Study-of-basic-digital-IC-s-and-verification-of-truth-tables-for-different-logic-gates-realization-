@@ -83,8 +83,11 @@ nor(y6,a,b);
 xnor(y7,a,b);
 
 endmodule
+
 DEVELOPED BY: PAVITHRA Y
+
 REGISTER NO : 212222050043
+
 output:
 Logic symbol and truthtable:
 ![Logicgates](https://user-images.githubusercontent.com/128951583/227760276-9ed28356-dd76-40a3-ac6d-3525cc64da9e.jpg)
